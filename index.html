@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101b25">
+  <title>Атлас — мастерская созвездий</title>
+  <link rel="stylesheet" href="./fonts.css">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./theme.css">
+  <script src="./data.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="./index.html" aria-label="Атлас — главная"><span class="brand-icon">✧</span><span>атлас<small>МАСТЕРСКАЯ СОЗВЕЗДИЙ</small></span></a>
+      <div class="nav-label">ТВОЯ ЭКСПЕДИЦИЯ</div>
+      <nav aria-label="Режимы">
+        <button data-mode="learn" class="nav-button active"><span>◈</span> Обучение</button>
+        <button data-mode="practice" class="nav-button"><span>◎</span> Тренировка</button>
+        <button data-mode="game" class="nav-button"><span>ϟ</span> Игра</button>
+        <button data-mode="leaders" class="nav-button"><span>♜</span> Таблица лидеров</button>
+        <button data-mode="stats" class="nav-button"><span>◴</span> Статистика</button>
+        <button data-mode="sources" class="nav-button"><span>⊙</span> Об атласе</button>
+      </nav>
+      <div class="side-progress"><span class="eyebrow">ТВОЙ АТЛАС</span><div><strong id="learned-count">0</strong><span> / 88 изучено</span></div><div class="progress-track"><i id="learned-bar"></i></div><p>Одна карточка — ещё один знакомый уголок неба.</p></div>
+      <div class="local-note"><i></i> Данные остаются в браузере<small>Прогресс хранится в этом браузере</small></div>
+    </aside>
+    <main>
+      <header class="topbar"><span>НЕБО БЛИЖЕ, ЧЕМ КАЖЕТСЯ</span><span class="catalog-badge">88 созвездий · 13 зодиакальных</span></header>
+      <section class="intro"><div><p class="eyebrow" id="page-kicker">ЗНАКОМСТВО С НЕБОМ</p><h1 id="page-title">Научись читать звёзды.</h1><p id="page-subtitle">Изучай рисунки, открывай истории и собирай свой атлас неба.</p></div><span class="intro-orbit" aria-hidden="true"><i></i><b>✦</b></span></section>
+      <section class="settings" aria-label="Настройки набора">
+        <div class="setting-label">ВЫБЕРИ СВОЁ НЕБО <span id="pool-count"></span></div>
+        <div class="category-chips" id="categories">
+          <button data-category="zodiac" class="selected">Зодиакальные <small>13</small></button>
+          <button data-category="north">Северные</button><button data-category="south">Южные</button>
+          <button data-category="equator">У экватора</button><button data-category="ecliptic">На эклиптике</button><button data-category="all">Все созвездия <small>88</small></button>
+        </div>
+        <div class="settings-bottom"><p id="category-description"></p><label class="switch-label"><input id="lines-toggle" type="checkbox" checked><span class="switch"></span>Линии созвездий</label></div>
+      </section>
+      <div id="screen"></div>
+      <footer><span>АТЛАС · УЧИСЬ СМОТРЕТЬ ВВЕРХ</span><span>Север ↑ · восток ← · звёздные величины приблизительные</span></footer>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
