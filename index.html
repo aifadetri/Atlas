@@ -9,6 +9,9 @@
   <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" href="./theme.css">
   <script src="./data.js" defer></script>
+  <script src="./vendor/supabase.js" defer></script>
+  <script src="./supabase/config.js" defer></script>
+  <script src="./supabase/cloud.js" defer></script>
   <script src="./app.js" defer></script>
 </head>
 <body>
@@ -22,10 +25,11 @@
         <button data-mode="game" class="nav-button"><span>ϟ</span> Игра</button>
         <button data-mode="leaders" class="nav-button"><span>♜</span> Таблица лидеров</button>
         <button data-mode="stats" class="nav-button"><span>◴</span> Статистика</button>
+        <button data-mode="account" class="nav-button"><span>♙</span> Мой профиль</button>
         <button data-mode="sources" class="nav-button"><span>⊙</span> Об атласе</button>
       </nav>
       <div class="side-progress"><span class="eyebrow">ТВОЙ АТЛАС</span><div><strong id="learned-count">0</strong><span> / 88 изучено</span></div><div class="progress-track"><i id="learned-bar"></i></div><p>Одна карточка — ещё один знакомый уголок неба.</p></div>
-      <div class="local-note"><i></i> Данные остаются в браузере<small>Прогресс хранится в этом браузере</small></div>
+      <div class="local-note"><i></i> Рейтинг и статистика онлайн<small>Карточки и настройки — в браузере</small></div>
     </aside>
     <main>
       <header class="topbar"><span>НЕБО БЛИЖЕ, ЧЕМ КАЖЕТСЯ</span><span class="catalog-badge">88 созвездий · 13 зодиакальных</span></header>
@@ -39,6 +43,7 @@
         </div>
         <div class="settings-bottom"><p id="category-description"></p><label class="switch-label"><input id="lines-toggle" type="checkbox" checked><span class="switch"></span>Линии созвездий</label></div>
       </section>
+      <div id="cloud-status" class="cloud-status" role="status"></div>
       <div id="screen"></div>
       <footer><span>АТЛАС · УЧИСЬ СМОТРЕТЬ ВВЕРХ</span><span>Север ↑ · восток ← · звёздные величины приблизительные</span></footer>
     </main>
