@@ -1,0 +1,7 @@
+/* Переход между двумя самостоятельными играми, включая мобильные экраны. */
+nav.resource-switch{display:inline-flex;gap:5px;align-items:center;flex-wrap:wrap;margin:20px 0 0;padding:5px;border:1px solid #494052;border-radius:12px;background:#201d2d;max-width:100%}
+nav.resource-switch a{display:block;padding:8px 16px;border:1px solid transparent;border-radius:8px;text-decoration:none;color:#c7bdd7;font:400 12px/1.5 'Golos Text',sans-serif;white-space:nowrap;transition:background .15s,color .15s}
+nav.resource-switch a[aria-current="page"]{color:#f1e7fb;background:#3a2f49;border-color:#5a446b}
+nav.resource-switch a:not([aria-current]):hover{color:#fff;background:#30263e}
+nav.resource-switch a:focus-visible{outline:2px solid #edc99b;outline-offset:3px}
+@media(max-width:580px){nav.resource-switch{display:flex;width:100%;margin-top:16px}nav.resource-switch a{flex:1;text-align:center;font-size:12px;padding:8px 10px}}
