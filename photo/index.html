@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#10121c">
+<title>Фотоатлас — узнай Вселенную</title>
+<link rel="stylesheet" href="../fonts.css"><link rel="stylesheet" href="./style.css">
+<script defer src="./data.js"></script><script defer src="./app.js"></script>
+</head>
+<body>
+<aside class="sidebar">
+<a class="brand" href="./"><span>◉</span><div>фотоатлас<small>ВСЕЛЕННАЯ В ОБЪЕКТИВЕ</small></div></a>
+<nav aria-label="Разделы игры"><button data-page="learn" class="active">◈ <span>Изучение</span></button><button data-page="train">◎ <span>Тренировка</span></button><button data-page="game">ϟ <span>Игра</span></button><button data-page="board">♜ <span>Рейтинг</span></button><button data-page="stats">◴ <span>Статистика</span></button><button data-page="account">♙ <span>Игрок</span></button><button data-page="about">⊙ <span>О фотографиях</span></button></nav>
+<div class="side-progress"><p class="eyebrow">ТВОЯ КОЛЛЕКЦИЯ</p><strong id="learned-number">0</strong><span id="total-number"></span><div class="progress"><i id="learned-progress"></i></div><p>Посмотри внимательнее.<br>Запомни то, что отличает.</p></div>
+<a class="back-link" href="../">← К созвездиям</a>
+</aside>
+<main>
+<header><span>НАСТОЯЩИЕ СНИМКИ. НАСТОЯЩИЕ ОТКРЫТИЯ.</span><span class="tag">Солнечная система + Мессье</span></header>
+<section class="intro"><div><p class="eyebrow" id="kicker">СМОТРИ. ЗАМЕЧАЙ. УЗНАВАЙ.</p><h1 id="title">Узнай Вселенную в лицо.</h1><p id="subtitle">От знакомых планет до далёких галактик — учись различать детали.</p></div><div class="orb" aria-hidden="true"><i></i><b></b></div></section>
+<section class="filters" id="filters" aria-label="Настройки набора"><div class="filter-heading"><span class="eyebrow">ЧТО БУДЕМ ИЗУЧАТЬ</span><span id="pool-number"></span></div><div class="chips" id="group-filter"><button data-group="planets">Планеты <small>8</small></button><button data-group="moons">Основные спутники</button><button data-group="messier">Каталог Мессье <small>110</small></button><button data-group="all">Все объекты</button></div><div class="filter-bottom"><div class="level-options" id="level-filter"><span>Сложность</span><button data-level="easy">Простой</button><button data-level="medium">Средний</button><button data-level="hard">Сложный</button><button data-level="all">Все уровни</button></div><select id="answer-style" aria-label="Способ ответа"><option value="choices">Четыре варианта</option><option value="text">Ввести название</option></select></div><p class="filter-note" id="pool-description"></p></section>
+<div class="cloud-status" id="cloud-status" role="status"></div><section id="screen"></section>
+<footer><span>ФОТОАТЛАС · ЧАСТЬ ПРОЕКТА «АТЛАС»</span><span>Фотографии NASA, ESA, ESO и других обсерваторий · источники в карточках</span></footer>
+</main><div class="toast" id="toast" role="status" aria-live="polite"></div>
+<noscript>Для игры необходимо включить JavaScript.</noscript>
+</body></html>
