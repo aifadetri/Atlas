@@ -1411,3 +1411,151 @@
 - Исходное изображение: https://science.nasa.gov/wp-content/uploads/2023/04/m110.png?w=1000
 - Обработка: Реальный астрономический снимок. Цвета могут быть составлены из нескольких фильтров; масштаб у разных карточек различается. Снимок Hubble может показывать центральную область или отдельный фрагмент объекта.
 - Факты: https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-110/
+
+## Дополнительные ракурсы планет
+
+Восемь планет остаются восемью объектами. По три снимка каждой; всего в фотоатласе 140 объектов и 156 фотографий. У некоторых снимков показаны полюс, фаза или часть диска. Инфракрасные/усиленные цвета и кадрирование подписаны ниже и в карточках.
+
+### Меркурий — Крупный план серпа и границы дня и ночи
+
+- Файл: `assets/planet-mercury-2.jpg`
+- Авторство: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/tip-of-the-crescent/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia12/pia12306/PIA12306.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальный монохромный снимок MESSENGER/NAC от 29 сентября 2009 года. Показан северный край освещённого серпа, а не полный диск.
+
+### Меркурий — Другая сторона, взгляд к южному полюсу
+
+- Файл: `assets/planet-mercury-3.jpg`
+- Авторство: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/looking-toward-the-south-pole-of-mercury/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia10/pia10187/PIA10187.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Монохромный снимок MESSENGER/NAC от 14 января 2008 года, после первого пролёта. Это реальный ракурс части диска, не поворот трёхмерной модели.
+
+### Венера — Облачный покров в ультрафиолете
+
+- Файл: `assets/planet-venus-2.jpg`
+- Авторство: NASA/JPL
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://www.nasa.gov/image-article/mariner-10s-first-close-up-photo-of-venus/
+- Исходное изображение: https://www.nasa.gov/wp-content/uploads/2023/03/724700main_venus_full_full.jpg
+- Обработка: Снимок Mariner 10 от 5 февраля 1974 года через ультрафиолетовый фильтр; исходная NASA-публикация использует цветовую обработку. Не естественный цвет и не радиолокационная карта.
+
+### Венера — Облака в фиолетовом фильтре
+
+- Файл: `assets/planet-venus-3.jpg`
+- Авторство: NASA/JPL
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/venus-in-violet-and-near-infrared-light/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia00/pia00071/PIA00071.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальный кадр Galileo/SSI от 13 февраля 1990 года. Для карточки выделен верхний правый кадр из опубликованной четырёхкадровой панели: фиолетовый канал. Пространственная фильтрация подчёркивает структуру облаков; поверхность не видна.
+
+### Земля — Северная и Центральная Америка
+
+- Файл: `assets/planet-earth-2.jpg`
+- Авторство: NASA/NOAA/DSCOVR EPIC team
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://www.nasa.gov/image-article/nasa-captures-epic-earth-image/
+- Исходное изображение: https://www.nasa.gov/wp-content/uploads/2023/03/187_1003705_americas_dxm.png
+- Обработка: Наблюдение DSCOVR/EPIC от 6 июля 2015 года. Цветное изображение составлено из трёх последовательных кадров через красный, зелёный и синий фильтры.
+
+### Земля — Полушарие над Тихим океаном
+
+- Файл: `assets/planet-earth-3.jpg`
+- Авторство: NASA/JPL
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/earth-pacific-ocean/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia00/pia00123/PIA00123.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальное наблюдение Galileo от 12 декабря 1990 года. Цветная композиция из красного, зелёного и фиолетового фильтров; виден другой участок поверхности.
+
+### Марс — Облака и полярные области, вид 2016 года
+
+- Файл: `assets/planet-mars-2.jpg`
+- Авторство: NASA, ESA, the Hubble Heritage Team (STScI/AURA), J. Bell (ASU), M. Wolff (Space Science Institute)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/image-detail/hs-2016-15-a-full_tif/
+- Исходное изображение: https://science.nasa.gov/wp-content/uploads/2023/04/hs-2016-15-a-full_tif-jpg.webp
+- Обработка: Реальный телескопический снимок Hubble от 12 мая 2016 года. Цвет получен объединением наблюдений в нескольких фильтрах.
+
+### Марс — Другой вид диска, наблюдение 2003 года
+
+- Файл: `assets/planet-mars-3.jpg`
+- Авторство: NASA, J. Bell (Cornell U.), M. Wolff (SSI); additional processing: K. Noll, A. Lubenow (STScI), M. Hubbard, R. Morris, P. James, S. Lee, T. Clancy, B. Whitney, G. Videen, Y. Shkuratov
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/asset/hubble/hubbles-closest-view-of-mars-august-27-2003/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2003/08/STScI-01EVVJJ4JSSW8C3B788Y5JXXAP.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Снимок Hubble/WFPC2 от 27 августа 2003 года. Обработанная цветная композиция реальных наблюдений.
+
+### Юпитер — Полярный ракурс с вихрями
+
+- Файл: `assets/planet-jupiter-2.jpg`
+- Авторство: NASA/JPL-Caltech/SwRI/MSSS/Gerald Eichstädt
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://www.nasa.gov/image-article/jupiters-swirling-south-pole/
+- Исходное изображение: https://www.nasa.gov/wp-content/uploads/2023/03/pia21975-opt.jpg
+- Обработка: Реальный снимок JunoCam от 16 декабря 2017 года, почти над южным полюсом. Цвет и контраст усилены при обработке Gerald Eichstädt; это не естественный цвет.
+
+### Юпитер — Экваториальные полосы и большой вихрь
+
+- Файл: `assets/planet-jupiter-3.jpg`
+- Авторство: NASA, ESA, A. Simon (Goddard Space Flight Center), M. H. Wong (University of California, Berkeley)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/asset/hubble/jupiter-2019/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2019/08/STScI-01EVSV9JYWYARC4A8336KMKNTQ.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Цветная композиция реальных наблюдений Hubble/WFC3 от 26–27 июня 2019 года. Оттенки назначены трём узкополосным изображениям.
+
+### Сатурн — Крупный план северной полярной области
+
+- Файл: `assets/planet-saturn-2.jpg`
+- Авторство: NASA/JPL-Caltech/SSI
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/spring-at-the-north-pole/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia14/pia14945/PIA14945.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальный ракурс Cassini от 27 ноября 2012 года. Красный, зелёный и синий кадры объединены в приближённый естественный цвет; видны полярный вихрь и часть шестиугольного струйного течения.
+
+### Сатурн — Равноденствие и слабо освещённые кольца
+
+- Файл: `assets/planet-saturn-3.jpg`
+- Авторство: NASA/JPL/Space Science Institute
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/photojournal/the-rite-of-spring/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia11/pia11667/PIA11667.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Мозаика реальных кадров Cassini от 12 августа 2009 года. Яркость колец и спутников специально увеличена относительно диска; это не единая экспозиция с естественным контрастом.
+
+### Уран — Светлая полярная шапка
+
+- Файл: `assets/planet-uranus-2.jpg`
+- Авторство: NASA, ESA, A. Simon (NASA Goddard Space Flight Center), M. Wong, A. Hsu (University of California, Berkeley)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/asset/hubble/uranus/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2019/02/STScI-01EVSWRGKBRH7SM3SGN77GCH0Q.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальные наблюдения Hubble/WFC3 от ноября 2018 года. Цветная композиция через спектральные фильтры; разрешение ограничено расстоянием до объекта.
+
+### Уран — Кольца в ближнем инфракрасном диапазоне
+
+- Файл: `assets/planet-uranus-3.jpg`
+- Авторство: NASA, ESA, CSA, STScI; image processing: J. DePasquale (STScI)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://www.nasa.gov/solar-system/nasas-webb-scores-another-ringed-world-with-new-image-of-uranus/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2023/04/STScI-01GWQDPJTF1MY8ZGN4WBMWMACJ.png/jcr:content/renditions/cq5dam.web.1280.1280.png
+- Обработка: Наблюдение Webb/NIRCam от 6 февраля 2023 года. Инфракрасным каналам назначены видимые цвета; этот вид не соответствует наблюдению глазом.
+
+### Нептун — Тёмный атмосферный вихрь
+
+- Файл: `assets/planet-neptune-2.jpg`
+- Авторство: NASA, ESA, A. Simon (NASA Goddard Space Flight Center), M. Wong, A. Hsu (University of California, Berkeley)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/asset/hubble/neptune-3/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2019/02/STScI-01EVSWREPJHR2JAMTRKD0S703X.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+- Обработка: Реальные наблюдения Hubble/WFC3 за сентябрь и ноябрь 2018 года. Цветная композиция фильтров, не поворот или перекраска снимка Voyager.
+
+### Нептун — Кольца и облака в инфракрасном свете
+
+- Файл: `assets/planet-neptune-3.jpg`
+- Авторство: NASA, ESA, CSA, STScI; image processing: Joseph DePasquale (STScI)
+- Лицензия: NASA media usage guidelines; retain full image credit; no endorsement implied. — https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Источник: https://science.nasa.gov/asset/webb/neptune-close-up-nircam/
+- Исходное изображение: https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2022/09/STScI-01GCVNDSA55PFHD0JP3JSEKAZ1.png/jcr:content/renditions/cq5dam.web.1280.1280.png
+- Обработка: Наблюдение Webb/NIRCam от 12 июля 2022 года. Невидимый глазу ближний инфракрасный свет представлен назначенными видимыми цветами; поэтому диск не выглядит привычно синим.
